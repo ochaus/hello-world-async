@@ -7,3 +7,8 @@ method is invoked first. Repeat these calls every 10 seconds and stop after 1 mi
 
 ● Expected Result: On the console you should see 6 combinations, a mix of “Hello World”
 and “World Hello”
+
+● To check the program, download the ```hello_world_async.py``` file and run with Python3:
+```
+py hello_world_async.py
+```
